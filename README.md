@@ -1,8 +1,16 @@
-# Tech Stacks Collection
+# tech-stacks-collection
 
 ## Description
 
 A collection of different tech stacks to build an identical CRUD application with modular frontend, backend, database, and deployment components.
+
+# Project Links
+
+- [Flask API](https://github.com/cyberforge1/flask-api-tech-stacks-collection)
+
+- [React UI](https://github.com/cyberforge1/react-ui-tech-stacks-collection)
+
+- [Databases](https://github.com/cyberforge1/databases-tech-stacks-collection)
 
 ## Tech Stacks
 
@@ -14,15 +22,6 @@ A collection of different tech stacks to build an identical CRUD application wit
 - [ ] NextJS
 - [ ] ASP.NET Core
 - [ ] Express - Angular
-
-# Project Links
-
-- [Flask API Tech Stacks Collection](https://github.com/cyberforge1/flask-api-tech-stacks-collection)
-
-- [React UI Tech Stacks Collection](https://github.com/cyberforge1/react-ui-tech-stacks-collection)
-
-- [Databases Tech Stacks Collection](https://github.com/cyberforge1/databases-tech-stacks-collection)
-
 
 # Project MVP
 
